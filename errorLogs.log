@@ -1,0 +1,6 @@
+[03-Dec-2021 10:18:48 America/Bogota] Inicio de aplicacion Web
+[03-Dec-2021 11:02:57 America/Bogota] App::construct-> No hay controlador especificado
+[03-Dec-2021 11:02:57 America/Bogota] PHP Warning:  require_once(controllers/login.php): failed to open stream: No such file or directory in C:\xampp\htdocs\expenseApp\libs\app.php on line 16
+[03-Dec-2021 11:02:57 America/Bogota] PHP Fatal error:  require_once(): Failed opening required 'controllers/login.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\expenseApp\libs\app.php on line 16
+[03-Dec-2021 11:08:46 America/Bogota] App::construct-> No hay controlador especificado
+[03-Dec-2021 11:08:46 America/Bogota] Login::construct->Inicio de login
